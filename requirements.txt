@@ -10,11 +10,14 @@ beautifulsoup4==4.11.2
 bleach==6.0.0
 cffi==1.15.1
 comm==0.1.2
+contourpy==1.0.7
+cycler==0.11.0
 debugpy==1.6.6
 decorator==5.1.1
 defusedxml==0.7.1
 executing==1.2.0
 fastjsonschema==2.16.2
+fonttools==4.38.0
 fqdn==1.5.1
 idna==3.4
 ipykernel==6.21.1
@@ -35,7 +38,9 @@ jupyter_server==2.2.1
 jupyter_server_terminals==0.4.4
 jupyterlab-pygments==0.2.2
 jupyterlab-widgets==3.0.5
+kiwisolver==1.4.4
 MarkupSafe==2.1.2
+matplotlib==3.6.3
 matplotlib-inline==0.1.6
 mistune==2.0.5
 nbclassic==0.5.1
@@ -50,8 +55,10 @@ packaging==23.0
 pandas==1.5.3
 pandocfilters==1.5.0
 parso==0.8.3
+patsy==0.5.3
 pexpect==4.8.0
 pickleshare==0.7.5
+Pillow==9.4.0
 platformdirs==3.0.0
 prometheus-client==0.16.0
 prompt-toolkit==3.0.36
@@ -60,6 +67,7 @@ ptyprocess==0.7.0
 pure-eval==0.2.2
 pycparser==2.21
 Pygments==2.14.0
+pyparsing==3.0.9
 pyrsistent==0.19.3
 python-dateutil==2.8.2
 python-json-logger==2.0.4
@@ -71,11 +79,13 @@ QtPy==2.3.0
 rfc3339-validator==0.1.4
 rfc3986-validator==0.1.1
 scipy==1.10.0
+seaborn==0.12.2
 Send2Trash==1.8.0
 six==1.16.0
 sniffio==1.3.0
 soupsieve==2.3.2.post1
 stack-data==0.6.2
+statsmodels==0.13.5
 terminado==0.17.1
 tinycss2==1.2.1
 tornado==6.2
